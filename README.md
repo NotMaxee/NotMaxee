@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**NotMaxee/NotMaxee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Heyo, I'm Maxee. I like to work in Python. Check out my stuff below.
+  <br>
+  <strong>
+    <a href="https://notmaxee.bitbucket.io/">Personal Website</a>
+    •
+    <a href="https://senkobot.bitbucket.io/">Senko</a>
+    •
+    <a href="https://nyrm.bitbucket.io/">Nyrm (WIP)</a>
+  </strong>
+</p>
